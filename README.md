@@ -1,9 +1,12 @@
 ![clapper-board](https://st.depositphotos.com/1000153/3002/v/450/depositphotos_30026421-stock-illustration-clapper-board.jpg)
 # Lights, Camera, Action!
+
 Our company wants in on the fun of creating original video content like all the big companies aroung them. Because of this, the company has decided they want to start producing movies.  
 The problem is, they have never done this.  They are not sure where to start and they don't want to lose money on this.
 
+
 # Our Data Understanding and Analysis 
+
 We wanted to gather box office performance and trends to gain insight around our decision making.
 
 We were provided raw data sets from several sources stemming from budget, gross revenue, film length, genres, and popularity.
@@ -14,7 +17,9 @@ You can find these inside the data folder inside this repository.
 
 We used these three datasets to come to conclusions on how best to approach this new business adventure.
 
+
 # Data Cleaning and EDAs
+
 We started by individually opening, cleaning and exploring each data set.  They do vary in cleaning methods, size, ect. So, for a further look into the coding itself, feel free to read the jupyter notebook titles Movie_Data_Notebook.ipynb.
 
 Below are a few of the EDAs we came up with during our analysis. Again please refer to the notebook for a closer look into these EDAs.
@@ -23,12 +28,9 @@ First is a box plot of our runtime outliers from our Movie Data source.
 
 ![Runtime Outliers](Pictures/RuntimeOutliers.png)
 
-
-
 Second, is a box plot of our budget outliers also from the Movie Data source.  We used these box plots to determine our outliers, so we could deal with them accordingly.
 
 ![Budgets Outliers](Pictures/BudgetsOutliers.png)
-
 
 
 These last two visualizations represent the Average Domestic Gross > $50 million by studio.  Both came from the Box Office Mojo dataset and show the same information. 
@@ -42,5 +44,20 @@ The one on the top is made using MatPlotLib and the one on the bottom was made u
 Below is the link to Tableau Worksheet.
 https://public.tableau.com/app/profile/lotus.baumgarner/viz/DomesticGross50Mil/Sheet1?publish=yes
 
+
+# Our Findings:
+
+We took notice of the timing of films being release. We saw that the summertime and holiday seasons grossed the most which also coincided with the films that had the highest budgets. Kids are out of school and the Oscars are around the corner. We found releasing movies during the summer and holiday season seem to be the most profitable times of the year.
+
+We found the most common types of movies were drama, comedy, action, thriller, crime, and so on. Our objective was to make sure that we maximize our profits by seeing what had the best ROI. After analyzing the data, we saw that the top film genres with the highest ROI were horror, thriller, and drama.  While Sci-fi, comedy, and animation show to have a higher budget, They do not necessarily have the best ROI.
+
+Our last idea was to take notice of the most profiable studio already in play. We think a collaboration with DreamWorks (PDW) would also be a safe course of exploration into the movie industry. A new film production studio can have starting costs anywhere from  
+
+
+Cast, marketing, costumes, travel, location, etc. could all play a factor in the budget. Spending too much money and could be detrimental but, a smaller budget film could produce high reward and lead to more success.
+
+
+
 # In Conclusion...
+
 We would want to consider horror, thriller, and drama genres. We would also want to consider partnering up or consulting with successfully experience production companies. Lastly, we would want to make sure we are wise with our investment and be strategic on how we spend money. Low budget has the potential with the highest reward with minimal negative impact. Thank you all for meeting with us today.
