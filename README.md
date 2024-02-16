@@ -47,16 +47,17 @@ https://public.tableau.com/app/profile/lotus.baumgarner/viz/DomesticGross50Mil/S
 
 # Our Findings:
 
-We took notice of the timing of films being release. We saw that the summertime and holiday seasons grossed the most which also coincided with the films that had the highest budgets. Kids are out of school and the Oscars are around the corner. We found releasing movies during the summer and holiday season seem to be the most profitable times of the year.
+We took notice of the timing of films being released. We saw that the summertime and holiday seasons grossed the most, which also coincided with the films that had the highest budgets. Kids are out of school and the Oscars are around the corner. We suggest releasing movies during the summer and holiday season seem to be the most profitable times of the year.
 
-We found the most common types of movies were drama, comedy, action, thriller, crime, and so on. Our objective was to make sure that we maximize our profits by seeing what had the best ROI. After analyzing the data, we saw that the top film genres with the highest ROI were horror, thriller, and drama.  While Sci-fi, comedy, and animation show to have a higher budget, They do not necessarily have the best ROI.
-Cast, marketing, costumes, travel, location, etc. could all play a factor in the budget. Spending too much money and not recieving a profit could be detrimental but, a smaller budget film could produce high reward and lead to more success.
+We found the most common types of movies were drama, comedy, action, thriller, crime, and so on. Our objective was to make sure that we maximize our profits by seeing what had the best ROI. After analyzing the data, we saw that the top film genres with the highest ROI were horror, thriller, and drama.  While Sci-fi, comedy, and animation show to have a higher budget, they do not necessarily have the best ROI.
+Cast, marketing, costumes, travel, location, etc. could all play a factor in the budget. Spending too much money and not receiving a profit could be detrimental but, a smaller budget film could produce high reward and lead to more success.
 
-Our last idea was to take notice of the most profiable studio already in play. We think a collaboration with DreamWorks (PDW) would also be a safe course of exploration into the movie industry. A new film production studio can have starting costs anywhere from  $10,000 for a small studio to over $1 million dollars for the larger studios.
-DreamWorks is well-known for animations but, the studio also produces horror films such as, The Haunting, The Ruins and many more. Since, they have a high profit average, the company can use this collaboration to make familiarize themselves with the industry. Not only what is required to start and run a studio, but also a better understanding of how to be successful in the business.
+Our last idea was to take notice of the most profitable studio already in play. We think a collaboration with DreamWorks (PDW) would also be a safe course of exploration into the movie industry. A new film production studio can have starting costs anywhere from $10,000 for a small studio to over $1 million dollars for the larger studios.
+DreamWorks is well-known for animations, but the studio also produces horror films such as, The Haunting, The Ruins and many more. Since they have a high profit average, the company can use this collaboration to familiarize themselves with the industry. Not only what is required to start and run a studio, but also a better understanding of how to be successful in the business.
+
 
 
 
 # In Conclusion...
 
-We would want the company to consider horror, thriller, and drama genres. We also recommend considering partnering up or consulting with successfully experience production companies. The Summer and holiday seasons seem to be the best time to release movies. And lastly, we would want to make sure we are wise with our investment and be strategic on how we spend money. Low budget has potentially the highest reward with minimal negative impact. 
+We would want the company to consider horror, thriller, and drama genres. We also recommend considering partnering up or consulting with successfully experienced production companies. The Summer and holiday seasons seem to be the best time to release movies. And lastly, we would want to make sure we are wise with our investment and be strategic in how we spend money. A low budget has potentially the highest reward with minimal negative impact.  
