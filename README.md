@@ -16,3 +16,6 @@ We used these three datasets to come to conclusions on how best to approach this
 We started by individually opening, cleaning and exploring each data set.  They do vary in cleaning methods, size, ect. So, for a further look into the coding itself, feel free to read the jupyter notebook titles P2ProjectFinalNotebook.
 Below are a few of the EDAs we came up with during our analysis.
 
+First is a box plot of our runtime outliers from our Movie Data source.
+![Runtime Outliers](Pictures/Runtime Outliers.png)
+
