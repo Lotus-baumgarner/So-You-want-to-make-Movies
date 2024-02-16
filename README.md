@@ -7,7 +7,7 @@ The problem is, they have never done this.  They are not sure where to start and
 
 # Our Data Understanding and Analysis 
 
-We wanted to gather box office performance and trends to gain insight around our decision making.
+We wanted to gather box office performance and trends to gain insight into our decision making.
 
 We were provided raw data sets from several sources stemming from budget, gross revenue, film length, genres, and popularity.
 We wanted to focus around return on investment based on production budgets, genre, and production companies..
