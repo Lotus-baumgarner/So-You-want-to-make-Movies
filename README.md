@@ -17,5 +17,18 @@ We started by individually opening, cleaning and exploring each data set.  They 
 Below are a few of the EDAs we came up with during our analysis.
 
 First is a box plot of our runtime outliers from our Movie Data source.
+![Runtime Outliers](Pictures/RuntimeOutliers.png)
+
+Second, is a box plot of our budget outliers also from the Movie Data source.
+![Budgets Outliers](Pictures/BudgetsOutliers.png)
+
+These last two visualizations represent the Average Domestic Gross > $50 million by studio.  Both came from the Box Office Mojo dataset and show the same information. The one on the top is made using MatPlotLib and the one on the bottom was made using Tableau.
+![Plt Box Office](Pictures/MatPlotLibBoxOffice.png)    
+![Tableau Box Office](Pictures/TableauBoxOffice.png)
 
 
+Below is the link to Tableau Worksheet.
+https://public.tableau.com/app/profile/lotus.baumgarner/viz/DomesticGross50Mil/Sheet1?publish=yes
+
+# In Conclusion...
+We would want to consider horror, thriller, and drama genres. We would also want to consider partnering up or consulting with successfully experience production companies. Lastly, we would want to make sure we are wise with our investment and be strategic on how we spend money. Low budget has the potential with the highest reward with minimal negative impact. Thank you all for meeting with us today.
